@@ -16,14 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "25:0"
+        "rmdVisualModeLocation": "155:0",
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1715926207,
+    "lastKnownWriteTime": 1715927732,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1715926207,
+    "last_content_update": 1715927732779,
     "read_only": false,
     "read_only_alternatives": []
 }
